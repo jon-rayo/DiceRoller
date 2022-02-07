@@ -1,0 +1,48 @@
+body {
+    background-color: aqua;
+}
+
+.wrapper {
+    width: 70;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 6rem;
+    color: crimson;
+}
+
+.content {
+    margin: 0px 50px;
+    display: inline-block;
+}
+
+p {
+    font-size: 2.5rem;
+    color: black;
+}
+
+img {
+    width: 320px;
+}
+
+.bottom {
+    padding: 30px;  
+    margin: 0 auto;   
+     
+}
+
+.center {
+    text-align: center;
+}
+
+.btn {
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 7px;;
+    color: black;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
